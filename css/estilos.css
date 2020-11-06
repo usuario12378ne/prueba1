@@ -1,0 +1,57 @@
+{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: #fcfcfc;
+}
+.contenedor {
+    margin: auto;
+    width: 900px;
+    margin-top: 300px;
+    text-align: center;
+}
+img{
+    width: 20%;
+    height: 40%;
+}
+.titulo{
+    margin-bottom: 20px;
+    font-family: 'EB Garamond', serif;
+    font-family: 'Josefin Slab', serif;
+    font-family: 'Lobster', cursive;
+}
+body{
+    background-color: pink;
+}
+
+.opciones p {
+    background: #e41515;
+    display: initial;
+    padding: 12px;
+    color: #ffffff;
+    border-radius: 2px;
+    font-weight: bold;
+}
+
+p.no {
+    position: absolute;
+    top: 400px;
+    left: 609px;
+    width: 100px;
+}
+p.p2{
+    position: absolute;
+    top: 400px;
+    left: 800px;
+    width: 100px;
+}
+#si {
+    background: #515050;
+    left: 420px;position: absolute;
+    top: 122px;
+    width: 550px;
+    color: #ffffff;
+    padding: 50px;
+    display: none;
+}
